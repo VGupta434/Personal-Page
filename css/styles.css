@@ -1,0 +1,50 @@
+body
+{
+  background-color: #CAF0F8;
+  /*< !-- alternative colour RGB(238, 232, 150) -->*/
+}
+
+hr
+{
+  border-style: dotted none none;
+  /*background-color: #F5EE1B;*/
+  border-color: #90E0EF;
+  border-width: 12px;
+  width: 10%;
+}
+
+h3
+{
+  color: #00B4D8;
+}
+
+h1
+{
+  color: #00B4D8;
+}
+
+p
+{
+  color: #03045E;
+}
+
+th
+{
+  color: #03045E;
+}
+
+td
+{
+  color: #03045E;
+}
+
+
+li
+{
+  color: #03045E;
+}
+
+label
+{
+  color: #03045E;
+}
